@@ -5,7 +5,7 @@ This public repository showcases parts of C# scripts from my 2nd mobile game pro
 
 ---
 
-### 1. 프로젝트 개요
+### 1. 개요
 
 본 리포지토리는 Unity로 개발된 모바일 게임의 핵심 C# 스크립트들을 담고 있습니다. 견고하고 유지보수하기 쉬운 코드를 작성하는 것을 목표로 했습니다.
 
