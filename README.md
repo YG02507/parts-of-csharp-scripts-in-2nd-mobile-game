@@ -5,6 +5,8 @@ This public repository showcases parts of C# scripts from my 2nd mobile game pro
 
 ---
 
+게임 링크: https://m.onestore.co.kr/v2/ko-kr/app/0001002093
+
 (관련 게임 영상은 Demonstration Video 파일들에서 확인 가능합니다.)
 
 ### 1. 개요
