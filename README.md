@@ -5,7 +5,7 @@ This public repository showcases parts of C# scripts from my 2nd mobile game pro
 
 ---
 
-(관련 게임 영상은 Demonstration Video.mp4 파일에서 확인 가능합니다.)
+(관련 게임 영상은 Demonstration Video 파일들에서 확인 가능합니다.)
 
 ### 1. 개요
 
